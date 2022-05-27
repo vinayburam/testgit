@@ -9,7 +9,11 @@ public class A {
 	//m3 method in maste branch
 
 	//comment made by team lead in master branch
+
+//this is the comment made by team2
+
 	//second comment made by team lead
+
 	public void m3() {
 		System.out.println("M3 method of class A");
 	}
