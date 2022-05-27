@@ -8,6 +8,7 @@ public class A {
 	}
 	//m3 method in maste branch
 	// this is the comment made by team1 to check
+	//team1 second comment
 	//comment made by team lead in master branch
 
 	public void m3() {
